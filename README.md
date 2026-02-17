@@ -138,4 +138,4 @@ UI/UX Designer & Web Developer
 
 ⭐ A beginner-friendly mini web application demonstrating practical front-end development concepts.
 
-OUTPUT:
+OUTPUT:https://karthikeyan0069.github.io/student-registration-/
